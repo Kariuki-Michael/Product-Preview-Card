@@ -32,8 +32,8 @@ Here is my final work after working on this challenge.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/responsive-product-preview-card-QGt7XZKWHg)
+- Live Site URL: [Live site URL](https://kmichael017.github.io/Product-Preview-Card/)
 
 ## My process
 

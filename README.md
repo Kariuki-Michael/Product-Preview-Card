@@ -28,7 +28,7 @@ Users should be able to:
 
 Here is my final work after working on this challenge.
 
-![](./screenshots/Desktop%20Design%20Submission.png)
+![(./screenshots/Desktop%20Design%20Submission.png)]
 ![](./screenshots/Mobile%20Design%20Submission.png)
 
 ### Links
@@ -61,8 +61,8 @@ I wish to continue improving on my responsive web design skills as it posed a go
 ## Author
 
 - Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Kmichael017)
-- Twitter - [@yourusername](https://www.twitter.com/Kmichael_17)
+- Frontend Mentor - [@Kmichael017](https://www.frontendmentor.io/profile/Kmichael017)
+- Twitter - [@Kmichael_17](https://www.twitter.com/Kmichael_17)
 
 ## Acknowledgments
 

@@ -27,9 +27,8 @@ Users should be able to:
 ### Screenshot
 
 Here is my final work after working on this challenge.
-
-![(./screenshots/Desktop%20Design%20Submission.png)]
-![](./screenshots/Mobile%20Design%20Submission.png)
+![Desktop screenshot](Screenshots/Desktop%20Design%20Submission.png)
+![Mobile Screenshot](Screenshots/Mobile%20Design%20Submission.png)
 
 ### Links
 

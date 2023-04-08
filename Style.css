@@ -89,7 +89,7 @@ button:hover{
     }
     .container{
         grid-template-columns: 1fr;
-        grid-template-rows: 320px 340px;
+        grid-template-rows: 320px 360px;
     }
     .product-img{
         background-image: url(images/image-product-mobile.jpg);
@@ -102,7 +102,7 @@ button:hover{
         border-bottom-left-radius: 8px;
     }
     button{
-        margin-top: -12px;
+        margin-top: -10px;
         position: relative;
         left: 50%;
         transform: translateX(-50%);
@@ -127,7 +127,7 @@ button:hover{
 }
 @media (max-width:375px){
     body{
-        padding: 20px 8px;
+        padding: 16px 8px;
     }
     button{
         padding: 10px 20px
